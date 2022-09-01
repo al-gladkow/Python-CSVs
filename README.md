@@ -23,8 +23,6 @@ Your task is to create a Python script that analyzes the records to calculate ea
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
   ```
 
----
-
 ## Instructions
 
 ### Read the Data
